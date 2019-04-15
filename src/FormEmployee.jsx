@@ -73,7 +73,7 @@ export default class FormEmployee extends Component {
 
                             <div className="form-data">
                                 <label htmlFor="comment">Comment</label>
-                                <input
+                                <textarea
                                     type="textarea"
                                     id="comment"
                                     name="comment"
